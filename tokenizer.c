@@ -3,7 +3,6 @@
  * tokenizer - Tokenizes a string.
  * @buffer: The string.
  * @delim: The delimiter character to tokenize the string by.
- *
  * Return: A pointer to an array containing the tokenized words.
  */
 char **tokenizer(char *buffer, const char *delim)
