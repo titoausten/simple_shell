@@ -29,7 +29,7 @@ char *_strcpy(char *dest, char *src)
 {
 	char *tmp = dest;
 
-	while(*src)
+	while (*src)
 		*dest++ = *src++;
 	*dest = '\0';
 	return (tmp);
