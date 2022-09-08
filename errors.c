@@ -2,7 +2,7 @@
 /**
  * error_messages - A function that prints message not found.
  * @name: The name of the shell.
- * @cycles: Number of cicles.
+ * @cycles: Number of cycles.
  * @command: The pointer to tokenized command.
  * Return: Nothing.
  */
